@@ -1,0 +1,5 @@
+#used to igonre file 
+Dockerfile
+README.md
+.dockerignore
+.git
